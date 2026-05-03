@@ -1,0 +1,15 @@
+# Секреты и конфиденциальные данные
+.env
+
+# Зависимости (библиотеки)
+node_modules/
+client/node_modules/
+
+# Логи и временные файлы
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+# Сборка
+client/dist/
